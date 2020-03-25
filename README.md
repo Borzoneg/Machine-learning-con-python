@@ -1,3 +1,5 @@
 # Machine-learning-con-python
-Nel file sono contenuti gli esempi del libro: </br>
-Machine learning con python </br>*costruire algoritmi per generare conoscenza* </br>di **Sebastian Raschka**
+Nei file sono contenuti gli esempi del libro: </br>
+Machine learning con python *costruire algoritmi per generare conoscenza* di **Sebastian Raschka**, divisi per capitolo<br>
+
+- **Capitolo 1:** Implementazione di perceptron e Adaline<br>
